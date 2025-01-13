@@ -1,8 +1,8 @@
 "use client"
 
 import axios from "axios"
-import Image from "next/image"
-import { useEffect, useState } from "react"
+// import Image from "next/image"
+import { useEffect } from "react"
 
 export default function Home() {
   // const [countries, setCountries] = useState([])
